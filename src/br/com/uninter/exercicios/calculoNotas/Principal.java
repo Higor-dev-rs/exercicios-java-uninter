@@ -1,4 +1,4 @@
-package calculoNotas;
+package br.com.uninter.exercicios.calculoNotas;
 
 public class Principal {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package calculoNotas;
+package br.com.uninter.exercicios.calculoNotas;
 
 public class Nota {
     //criando a classe nota, e que a mesma tenha atributos nota1, nota2 e nota 3
