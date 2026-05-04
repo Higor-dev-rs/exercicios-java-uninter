@@ -1,4 +1,4 @@
-package admContaCorrente;
+package br.com.uninter.exercicios.adm.ContaCorrente;
 
 public class Principal {
     public static void main(String[] args) {
